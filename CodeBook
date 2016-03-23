@@ -62,6 +62,8 @@ tBodyGyroJerkMean
 
 The complete list of variables of each feature vector is available in 'features.txt'
 
+New data created:
+
 CompleteData
 Dimensions -  10299    68
  [1] "subject"                     "activity"                    "tBodyAcc-mean()-X"           "tBodyAcc-mean()-Y"          
